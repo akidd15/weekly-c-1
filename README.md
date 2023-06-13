@@ -14,4 +14,5 @@ N/A
 
 ## Images
 See in assets folder
+https://github.com/akidd15/weekly-c-1/tree/main/assets/images
 

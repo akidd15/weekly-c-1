@@ -13,5 +13,5 @@ To access updated semantic elements, See HTML in repo and/or DevTools.
 N/A
 
 ## Images
-
+See in assets folder
 
